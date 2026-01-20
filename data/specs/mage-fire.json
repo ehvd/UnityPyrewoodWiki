@@ -1,0 +1,20 @@
+{
+  "class": "Mage",
+  "spec": "Fire",
+  "role": "DPS",
+  "consumables": {
+    "required": [
+      "Phial of Tepid Versatility",
+      "Sizzling Seafood Medley",
+      "Buzzing Rune"
+    ],
+    "recommended": [
+      "Elemental Potion of Ultimate Power",
+      "Draconic Augment Rune"
+    ],
+    "situational": [
+      "Invisibility Potion",
+      "Health Potion"
+    ]
+  }
+}

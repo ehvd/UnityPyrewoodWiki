@@ -1,0 +1,14 @@
+{
+  "classes": [
+    {
+      "id": "mage",
+      "name": "Mage",
+      "specs": ["fire", "frost", "arcane"]
+    },
+    {
+      "id": "death-knight",
+      "name": "Death Knight",
+      "specs": ["blood", "frost", "unholy"]
+    }
+  ]
+}

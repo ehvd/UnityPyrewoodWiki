@@ -1,0 +1,10 @@
+{
+  "raids": [
+    {
+      "id": "nerubar-palace",
+      "name": "Nerub'ar Palace",
+      "season": "TWW S1",
+      "notes": "Invisibility potions recommended for trash skips"
+    }
+  ]
+}
