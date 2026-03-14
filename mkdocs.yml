@@ -1,0 +1,22 @@
+site_name: Unity Wiki
+theme:
+  name: material
+  palette: 
+    - scheme: slate  # Dark mode by default
+      primary: blue
+      accent: blue
+  features:
+    - navigation.tabs
+    - search.suggest
+    - content.code.copy
+  markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Recruitment: recruitment.md
+  - Raid Info:
+      - Rules: raid-rules.md
+      - Boss Guides: guides/boss-1.md
