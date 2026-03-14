@@ -1,4 +1,4 @@
-# Welcome to <Guild Name>
+# Welcome to Unity
 
 > **Server:** PyrewoodVillage (EU) | **Faction:** Alliance
 
