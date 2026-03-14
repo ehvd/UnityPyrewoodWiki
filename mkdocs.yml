@@ -18,6 +18,7 @@ nav:
   - Home: index.md
   - Recruitment: recruitment.md
   - Raid Info:
+      - Info: raid-info.md
       - Rules: raid-rules.md
       - Guides:
           - Molten Core: guides/raids/molten-core.md
