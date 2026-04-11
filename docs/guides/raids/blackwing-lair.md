@@ -69,25 +69,24 @@ A beast with rotating elemental weaknesses and "Breath" mechanics.
 
 A massive three-phase encounter involving the entire room.
 
-| Phase                   | Mechanic       | Strategy                                                                                                   |
-|:------------------------|:---------------|:-----------------------------------------------------------------------------------------------------------|
-| **Phase 1: Drakonids**  | Wave Defense   | Kill 42 Drakonids coming from the side rooms.                                                              |
-| **Phase 2: The Dragon** | Class Calls    | Nefarian lands. Every 30s, he "calls" a class (e.g., Hunters' weapons break, Priests' heals hurt targets). |
-|                         | Shadow Flame   | Everyone must wear Onyxia Scale Cloaks when he lands.                                                      |
-| **Phase 3: The Risen**  | Skeleton Horde | At 20% HP, all dead Drakonids from P1 rise as skeletons. Use AoE and Holy Water to clear them instantly.   |
+| Phase                   | Mechanic & Strategy                                                                                                                                                                                                          |
+|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Phase 1: Drakonids**  | <p>**Wave Defense:**</p><p>Kill 42 Drakonids coming from the side rooms.</p>                                                                                                                                                 |
+| **Phase 2: The Dragon** | <p>**Class Calls:**</p><p>Nefarian lands. Every 30s, he "calls" a class (e.g., Hunters' weapons break, Priests' heals hurt targets).</p><p>**Shadow Flame:**</p><p>Everyone must wear Onyxia Scale Cloaks when he lands.</p> |
+| **Phase 3: The Risen**  | <p>**Skeleton Horde:**</p><p>At 20% HP, all dead Drakonids from P1 rise as skeletons. Use AoE and Holy Water to clear them instantly.</p>                                                                                    |
 
 #### Class calls
 
-| Class                     | Mechanic                                                                        | Strategy                                                                                                                                         |
-|:--------------------------| :------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Druid {: .wow-druid }     | Druids are forced into Cat Form and cannot shift out.                           | Move to melee range and deal damage. Ensure they are healed since they cannot cast spells.                                                       |
-| Hunter {: .wow-hunter }   | Ranged weapons break, becoming unusable until repaired.                         | Immediately switch to melee weapons and use abilities like Raptor Strike. Carry a backup weapon and avoid relying solely on ranged damage.       |
-| Mage {: .wow-mage }       | Wild Polymorph transforms nearby allies into critters.                          | Spread out to minimize accidental polymorphs. Stop casting and use wands or reposition until the effect ends.                                    |
-| Paladin {: .wow-paladin } | Casts Blessing of Protection on Nefarian, making him immune to physical damage. | Priests must quickly dispel the Blessing of Protection so melee can resume attacking.                                                            |
-| Priest {: .wow-priest }   | Corrupted Healing causes heals to damage targets instead.                       | Stop all healing immediately. Use shields or dispels if necessary and resume only after the effect ends.                                         |
-| Rogue {: .wow-rogue }     | Rogues are rooted and teleport to Nefarian’s location.                          | Stay alert for threat spikes. Tanks must maintain aggro while healers prepare for sudden damage. Use defensive abilities like Evasion if needed. |
-| Warlock {: .wow-warlock } | Infernals spawn and attack the raid.                                            | Tanks pick up the Infernals while DPS quickly eliminate them. Crowd control and off-tanking help manage chaos.                                   |
-| Warrior {: .wow-warrior } | Forced into Berserker Stance, generating excessive rage.                        | Stop attacking to prevent pulling aggro. Use abilities cautiously and allow tanks to maintain threat.                                            |
+| Class                     | Mechanic & Strategy                                                                                                                                                                                                  |
+|:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Druid {: .wow-druid }     | <p>Druids are forced into Cat Form and cannot shift out.</p><p>Move to melee range and deal damage. Ensure they are healed since they cannot cast spells.</p>                                                        |
+| Hunter {: .wow-hunter }   | <p>Ranged weapons break, becoming unusable until repaired.</p><p>Immediately switch to melee weapons and use abilities like Raptor Strike. Carry a backup weapon and avoid relying solely on ranged damage.</p>      |
+| Mage {: .wow-mage }       | <p>Wild Polymorph transforms nearby allies into critters.</p><p>Spread out to minimize accidental polymorphs. Stop casting and use wands or reposition until the effect ends.</p>                                    |
+| Paladin {: .wow-paladin } | <p>Casts Blessing of Protection on Nefarian, making him immune to physical damage.</p><p>Priests must quickly dispel the Blessing of Protection so melee can resume attacking.</p>                                   |
+| Priest {: .wow-priest }   | <p>Corrupted Healing causes heals to damage targets instead.</p><p>Stop all healing immediately. Use shields or dispels if necessary and resume only after the effect ends.</p>                                      |
+| Rogue {: .wow-rogue }     | <p>Rogues are rooted and teleport to Nefarian’s location.</p><p>Stay alert for threat spikes. Tanks must maintain aggro while healers prepare for sudden damage. Use defensive abilities like Evasion if needed.</p> |
+| Warlock {: .wow-warlock } | <p>Infernals spawn and attack the raid.</p><p>Tanks pick up the Infernals while DPS quickly eliminate them. Crowd control and off-tanking help manage chaos.</p>                                                     |
+| Warrior {: .wow-warrior } | <p>Forced into Berserker Stance, generating excessive rage.</p><p>Stop attacking to prevent pulling aggro. Use abilities cautiously and allow tanks to maintain threat.</p>                                          |
 
 ---
 
