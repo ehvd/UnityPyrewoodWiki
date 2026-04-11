@@ -19,6 +19,7 @@ theme:
     - search.suggest
     - content.code.copy
     - content.tabs.link
+    - content.tooltips
   icon:
     admonition:
       abstract: material/clipboard-text

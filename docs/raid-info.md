@@ -48,7 +48,7 @@ We use the **EPGP (Effort Points / Gear Points)** system to ensure fair distribu
 
 ---
 
-## 🧪 Consumables & World Buffs (WB)
+## :material-test-tube: Consumables & World Buffs (WB)
 Expectations vary based on the raid's difficulty:
 
 | Raid | World Buffs | High-End Consumes | Low-End Consumes |
@@ -63,7 +63,7 @@ Expectations vary based on the raid's difficulty:
 
 ---
 
-## 🔗 Important Links & Sheets
+## :material-link: Important Links & Sheets
 * [**Raid Cheat Sheet**](https://docs.google.com/spreadsheets/d/1XD_Y4iW0wauFlCnHDhO1JHbyHWQ8SnIGaENn0xmgg_0/edit): Class priorities for every item.
 * [**Consumes Cheat Sheet**](https://docs.google.com/spreadsheets/d/11wGIktLt3B9PQCdkPylRduHGWaoo13RDsdWw1YJfBYk/edit): Detailed shopping list for progression.
 * [**Crafting Cheat Sheet**](https://docs.google.com/spreadsheets/d/1K4_nYxcBAUyal9Xv8OuHDLDXZflMKevFE_QYZUEUPpk/edit): List of guild crafters.
@@ -71,10 +71,11 @@ Expectations vary based on the raid's difficulty:
 
 ---
 
-## 🗓️ Weekly Raid Schedule
-*Raid resets occur at 09:00 Server Time (CET/CEST).*
+## :material-calendar: Weekly Raid Schedule
 
-* **Monday:** ZG / AQ20
-* **Wednesday:** MC / BWL / AQ40 / NAXX (Main Progression)
-* **Thursday:** ZG / AQ20
-* **Weekend:** PVP Focused (AV/WSG) and ZG/AQ20 resets.
+| Weekday       | Raid | Time (CET/CEST)                                                                                               |
+|:--------------|:-----|:--------------------------------------------------------------------------------------------------------------|
+| **Monday**    | MC   | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
+| **Wednesday** | AQ40 | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
+| **Sunday**    | BWL  | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
+
