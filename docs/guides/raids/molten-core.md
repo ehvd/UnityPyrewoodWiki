@@ -80,37 +80,55 @@ Welcome to the heart of Blackrock Mountain. This 40-man raid is the first major 
 
 --8<-- "docs/guides/raids/molten-core/lucifron.md"
 
+---
+
 ### 2. Magmadar
 
 --8<-- "docs/guides/raids/molten-core/magmadar.md"
+
+---
 
 ### 3. Gehennas
 
 --8<-- "docs/guides/raids/molten-core/gehennas.md"
 
+---
+
 ### 4. Garr
 
 --8<-- "docs/guides/raids/molten-core/garr.md"
+
+---
 
 ### 5. Baron Geddon
 
 --8<-- "docs/guides/raids/molten-core/baron-geddon.md"
 
+---
+
 ### 6. Shazzrah
 
 --8<-- "docs/guides/raids/molten-core/shazzrah.md"
+
+---
 
 ### 7. Sulfuron Harbinger
 
 --8<-- "docs/guides/raids/molten-core/sulfuron-harbinger.md"
 
+---
+
 ### 8. Golemagg the Incinerator
 
 --8<-- "docs/guides/raids/molten-core/golemagg-the-incinerator.md"
 
+---
+
 ### 9. Majordomo Executus
 
 --8<-- "docs/guides/raids/molten-core/majordomo-executus.md"
+
+---
 
 ### 10. Ragnaros
 
