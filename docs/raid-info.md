@@ -1,6 +1,7 @@
 # 📋 Raid Information & Guidelines
 
-Welcome to the central hub for our raid requirements, schedules, and loot systems. Please ensure you are familiar with these rules before joining a raid.
+Welcome to the central hub for our raid requirements, schedules, and loot systems. Please ensure you are familiar with
+these rules before joining a raid.
 
 ---
 
@@ -40,8 +41,10 @@ We use the **EPGP (Effort Points / Gear Points)** system to ensure fair distribu
 | **Minor Upgrade (MU)** | 50% GP | Small stat increments. |
 | **Off Spec (OS)** | 25% GP | Gear for secondary roles. |
 
-> [!WARNING]
-> **Anti-Exploitation:** Players repeatedly skipping upgrades to "save PR" for BiS items may be denied loot by a soft loot council (GM/Officers). Please respect the honor system.
+!!! warning 
+
+    **Anti-Exploitation:** Players repeatedly skipping upgrades to "save PR" for BiS items may be denied loot by a soft
+    loot council (GM/Officers). Please respect the honor system.
 
 ---
 
@@ -68,13 +71,10 @@ Expectations vary based on the raid's difficulty:
 
 ---
 
-## 🗓️ Weekly Raid Schedule (Pyrewood Cluster)
+## 🗓️ Weekly Raid Schedule
 *Raid resets occur at 09:00 Server Time (CET/CEST).*
 
 * **Monday:** ZG / AQ20
 * **Wednesday:** MC / BWL / AQ40 / NAXX (Main Progression)
 * **Thursday:** ZG / AQ20
 * **Weekend:** PVP Focused (AV/WSG) and ZG/AQ20 resets.
-
----
-**Last Updated:** 2026-03-14

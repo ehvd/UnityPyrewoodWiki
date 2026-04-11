@@ -15,45 +15,103 @@ The pinnacle of Classic raiding. This 40-man necropolis is divided into four dis
 
 ## ⚔️ The Four Wings
 
+---
+
 ### 🕸️ Arachnid Quarter (The Spider Wing)
 Considered the easiest wing. Good for warming up.
-* **Anub'Rekhan:** Avoid **Locust Swarm** by kiting the boss in a circle around the room. Kill the Crypt Guard adds immediately.
-* **Grand Widow Faerlina:** Use Priest **Mind Control** on the *Worshipper* adds to silence the boss and remove her Enrage.
-* **Maexxna:** The raid gets stunned by **Web Spray** every 40s. Healers must top off the tank *before* the spray hits.
 
-### 🤢 Plague Quarter
+#### 1. Anub'Rekhan
+
+Avoid **Locust Swarm** by kiting the boss in a circle around the room. Kill the Crypt Guard adds immediately.
+
+#### 2. Grand Widow Faerlina
+
+Use Priest **Mind Control** on the *Worshipper* adds to silence the boss and remove her Enrage.
+
+#### 3. Maexxna
+
+The raid gets stunned by **Web Spray** every 40s. Healers must top off the tank *before* the spray hits.
+
+---
+
+### 🤢 Plague Quarter (The Plague Wing)
+
 Tests your movement and dispelling speed.
-* **Noth the Plaguebringer:** Dispel **Curse of the Plaguebringer** instantly or it will wipe the raid. 
-* **Heigan the Unclean:** The "Safety Dance." Memorize the floor eruptions (1-2-3-4-3-2-1) to avoid instant death.
-* **Loatheb:** Healing is restricted to one spell every 60s per player. Use a strict **Heal Rotation** and spam Bandages/Healthstones.
+#### 4. Noth the Plaguebringer
 
-### 🏗️ Construct Quarter
+Dispel **Curse of the Plaguebringer** instantly or it will wipe the raid.
+
+#### 5. Heigan the Unclean
+
+The "Safety Dance." Memorize the floor eruptions (1-2-3-4-3-2-1) to avoid instant death.
+
+#### 6. Loatheb
+
+Healing is restricted to one spell every 60s per player. Use a strict **Heal Rotation** and spam Bandages/Healthstones.
+
+---
+
+### 🏗️ Construct Quarter (The Abomination Wing)
+
 The "Gear Check" wing. High DPS and high health pools are mandatory.
-* **Patchwerk:** The ultimate "Hateful Strike" tank test. Off-tanks must have the highest HP to soak the hits.
-* **Grobbulus:** If you get **Mutating Injection**, run to the back of the room to drop the poison cloud.
-* **Thaddius:** The **Polarity Shift**. Match your "+" or "-" charge with your group. **Crossing the wrong side will one-shot your teammates.**
 
-### 🗡️ Military Quarter
+#### 7. Patchwerk
+
+The ultimate "Hateful Strike" tank test. Off-tanks must have the highest HP to soak the hits.
+
+#### 8. Grobbulus
+
+If you get **Mutating Injection**, run to the back of the room to drop the poison cloud.
+
+#### 9. Gluth
+
+[Gluth](https://www.wowhead.com/classic/guide/gluth-naxxramas-raid-strategy)
+
+#### 10. Thaddius
+
+The **Polarity Shift**. Match your "+" or "-" charge with your group. **Crossing the wrong side will one-shot your teammates.**
+
+---
+
+### 🗡️ Military Quarter (The Deathknight Wing)
 Highly technical fights requiring specific class utility.
-* **Instructor Razuvious:** Requires Priests to **Mind Control** the Understudies to tank the boss.
-* **Gothik the Harvester:** The raid splits in two (Living side and Dead side). You must balance your DPS so one side isn't overwhelmed.
-* **The Four Horsemen:** A complex dance involving 8 tanks and rotating "Marks." If you take 4 stacks of a Mark, you die.
+
+#### 10. Instructor Razuvious
+
+Requires Priests to **Mind Control** the Understudies to tank the boss.
+
+#### 11. Gothik the Harvester
+
+The raid splits in two (Living side and Dead side). You must balance your DPS so one side isn't overwhelmed.
+
+#### 12. The Four Horsemen
+
+A complex dance involving 8 tanks and rotating "Marks." If you take 4 stacks of a Mark, you die.
 
 ---
 
 ### 🔥 The Frostwyrm Lair
 Accessible only after all four wings are cleared.
 
-| Boss | Key Mechanic | Strategy |
-| :--- | :--- | :--- |
-| **Sapphiron** | *Frost Aura* | Constant raid-wide frost damage. **Full FrR gear is mandatory.** |
-| | *Ice Bolt* | Hide behind ice-blocked players to survive the **Frost Breath** explosion. |
-| **Kel'Thuzad** | *Phase 1: Adds* | Manage waves of soldiers, souls, and abominations. |
-| | *Phase 2: Shadow Blast* | Interrupt **Frostbolt** and spread out to avoid **Frost Blast** (Ice Tomb). |
-| | *Phase 3: Guardians* | At 40% HP, 5 giant Nerubian Guardians spawn. Off-tanks must kite/shackle them. |
+#### 14. Sapphiron
 
-> [!IMPORTANT]
-> **Kel'Thuzad's Mind Control:** KT will MC the top threat targets. Do not kill them; use Sheep or Fear until the effect wears off.
+| Boss           | Key Mechanic            | Strategy                                                                       |
+|:---------------|:------------------------|:-------------------------------------------------------------------------------|
+| **Sapphiron**  | *Frost Aura*            | Constant raid-wide frost damage. **Full FrR gear is mandatory.**               |
+|                | *Ice Bolt*              | Hide behind ice-blocked players to survive the **Frost Breath** explosion.     |
+
+#### 15. Kel'Thuzad
+
+| Boss           | Key Mechanic            | Strategy                                                                       |
+|:---------------|:------------------------|:-------------------------------------------------------------------------------|
+| **Kel'Thuzad** | *Phase 1: Adds*         | Manage waves of soldiers, souls, and abominations.                             |
+|                | *Phase 2: Shadow Blast* | Interrupt **Frostbolt** and spread out to avoid **Frost Blast** (Ice Tomb).    |
+|                | *Phase 3: Guardians*    | At 40% HP, 5 giant Nerubian Guardians spawn. Off-tanks must kite/shackle them. |
+
+
+!!! important
+
+    **Kel'Thuzad's Mind Control:** KT will MC the top threat targets. Do not kill them; use Sheep or Fear until the effect wears off.
 
 ---
 

@@ -1,16 +1,40 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Unity Wiki
+
+plugins:
+  - search
+  - macros
+
 theme:
+  logo: assets/images/logo.png
   name: material
   palette: 
     - scheme: slate  # Dark mode by default
       primary: indigo
       accent: blue
+  favicon: assets/images/logo.png
   features:
     - navigation.tabs
     - search.suggest
     - content.code.copy
     - content.tabs.link
+  icon:
+    admonition:
+      abstract: material/clipboard-text
+      bug: material/shield-bug
+      danger: material/lightning-bolt-circle
+      example: material/test-tube
+      failure: material/close
+      info: material/information
+      note: material/note
+      question: material/help-circle
+      quote: material/format-quote-close
+      success: material/check
+      tip: material/fire
+      warning: material/alert
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -24,6 +48,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 
 nav:
   - Home: index.md

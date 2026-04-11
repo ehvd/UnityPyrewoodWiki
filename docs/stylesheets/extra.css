@@ -1,0 +1,49 @@
+﻿/* World of Warcraft Class Colors */
+
+/* Druid - Orange */
+.wow-druid {
+    color: #FF7D0A;
+    font-weight: bold;
+}
+
+/* Hunter - Green */
+.wow-hunter {
+    color: #ABD473;
+    font-weight: bold;
+}
+
+/* Mage - Light Blue */
+.wow-mage {
+    color: #69CCF0;
+    font-weight: bold;
+}
+
+/* Paladin - Pink */
+.wow-paladin {
+    color: #F58CBA;
+    font-weight: bold;
+}
+
+/* Priest - White (adjusted for visibility) */
+.wow-priest {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+/* Rogue - Yellow */
+.wow-rogue {
+    color: #FFF569;
+    font-weight: bold;
+}
+
+/* Warlock - Purple */
+.wow-warlock {
+    color: #9482C9;
+    font-weight: bold;
+}
+
+/* Warrior - Brown */
+.wow-warrior {
+    color: #C79C6E;
+    font-weight: bold;
+}
