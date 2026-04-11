@@ -1,9 +1,7 @@
 # Recruitment
 
-!!! info ""
+!!! success "Recruitment Status: **OPEN**"
 
-    "Recruitment Status: OPEN"
-    
     We are currently looking for exceptional players for the current tier. Even if your spec isn't listed below, feel free to apply!
 
 ### :material-bullseye-arrow: High Priority Needs
