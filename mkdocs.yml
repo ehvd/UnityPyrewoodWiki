@@ -35,7 +35,6 @@ theme:
       warning: material/alert
 
 extra:
-  homepage: https://yourdomain.com
   meta:
     - name: apple-mobile-web-app-capable
       content: yes
