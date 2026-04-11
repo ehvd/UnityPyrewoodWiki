@@ -8,6 +8,7 @@ plugins:
 theme:
   logo: assets/images/logo.png
   name: material
+  custom_dir: overrides
   palette: 
     - scheme: slate  # Dark mode by default
       primary: indigo
@@ -32,6 +33,14 @@ theme:
       success: material/check
       tip: material/fire
       warning: material/alert
+
+extra:
+  homepage: https://yourdomain.com
+  meta:
+    - name: apple-mobile-web-app-capable
+      content: yes
+    - name: apple-mobile-web-app-status-bar-style
+      content: default
 
 extra_css:
   - stylesheets/extra.css
