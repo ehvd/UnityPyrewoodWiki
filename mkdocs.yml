@@ -9,10 +9,28 @@ theme:
   logo: assets/images/logo.png
   name: material
   custom_dir: overrides
-  palette: 
-    - scheme: slate  # Dark mode by default
-      primary: indigo
-      accent: blue
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: light
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to auto
+
   favicon: assets/images/logo.png
   features:
     - navigation.tabs
@@ -46,6 +64,8 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/theme-light.css
+  - stylesheets/theme-dark.css
 
 markdown_extensions:
   - admonition
