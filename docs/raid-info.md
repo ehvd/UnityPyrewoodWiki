@@ -5,6 +5,16 @@ these rules before joining a raid.
 
 ---
 
+## :material-calendar: Weekly Raid Schedule
+
+| Weekday       | Raid | Time (CET/CEST)                                                                                               |
+|:--------------|:-----|:--------------------------------------------------------------------------------------------------------------|
+| **Monday**    | MC   | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
+| **Wednesday** | AQ40 | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
+| **Sunday**    | BWL  | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
+
+---
+
 ## 🛠️ Addon Requirements
 
 ### Mandatory (Must have to participate)
@@ -68,14 +78,3 @@ Expectations vary based on the raid's difficulty:
 * [**Consumes Cheat Sheet**](https://docs.google.com/spreadsheets/d/11wGIktLt3B9PQCdkPylRduHGWaoo13RDsdWw1YJfBYk/edit): Detailed shopping list for progression.
 * [**Crafting Cheat Sheet**](https://docs.google.com/spreadsheets/d/1K4_nYxcBAUyal9Xv8OuHDLDXZflMKevFE_QYZUEUPpk/edit): List of guild crafters.
 * [**EPGP / UNITY Calculator**](https://lookerstudio.google.com/reporting/56252d3b-798e-4379-aec2-d5287398ae0d): Check your standing and GP costs.
-
----
-
-## :material-calendar: Weekly Raid Schedule
-
-| Weekday       | Raid | Time (CET/CEST)                                                                                               |
-|:--------------|:-----|:--------------------------------------------------------------------------------------------------------------|
-| **Monday**    | MC   | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
-| **Wednesday** | AQ40 | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
-| **Sunday**    | BWL  | 20:00 - 23:00 <sup>:material-information-outline:{ title="We'll end early if the content is cleared." }</sup> |
-
