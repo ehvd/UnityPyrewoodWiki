@@ -1,4 +1,9 @@
-﻿The giant core hound.
+﻿<figure markdown="span">
+    ![Image title](https://dummyimage.com/900x600/){ width="600" }
+    <figcaption>Magmadar</figcaption>
+</figure>
+
+The giant core hound.
 
 * **Fear:** Every 30 seconds, he uses *Panic*. Warriors must **Stance Dance** to Berserker Rage; Shamans/Paladins use Tremor Totem/Fear Ward.
 * **Tranquilizing Shot:** Hunters **must** rotate Tranq Shot to soothe his *Frenzy*.

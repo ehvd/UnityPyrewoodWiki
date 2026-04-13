@@ -1,4 +1,9 @@
-﻿The only boss you don't actually kill. You win by killing all his adds.
+﻿<figure markdown="span">
+    ![Image title](https://dummyimage.com/900x600/){ width="600" }
+    <figcaption>Majordomo Executus</figcaption>
+</figure>
+
+The only boss you don't actually kill. You win by killing all his adds.
 
 * **The Adds:** 4 Flamewaker Healers and 4 Flamewaker Elites.
 * **Strategy:** Use **Polymorph** on the Healers (Mages are key here). Focus down the Elites first, then the Healers.

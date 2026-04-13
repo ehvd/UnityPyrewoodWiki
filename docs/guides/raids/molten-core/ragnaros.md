@@ -1,4 +1,9 @@
-﻿The Firelord himself. You have **10 minutes** to kill him before he submerges.
+﻿<figure markdown="span">
+    ![Image title](https://dummyimage.com/900x600/){ width="600" }
+    <figcaption>Ragnaros</figcaption>
+</figure>
+
+The Firelord himself. You have **10 minutes** to kill him before he submerges.
 
 | Phase             | Mechanic            | Strategy                                                                      |
 |:------------------|:--------------------|:------------------------------------------------------------------------------|
