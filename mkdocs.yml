@@ -16,6 +16,8 @@ theme:
   favicon: assets/images/logo.png
   features:
     - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
     - search.suggest
     - content.code.copy
     - content.tabs.link
@@ -65,9 +67,23 @@ nav:
   - Home: index.md
   - Recruitment: recruitment.md
   - Raid Info:
-      - Info: raid-info.md
+      - Raid Info: raid-info.md
       - Guides:
-          - Molten Core: guides/raids/molten-core.md
-          - Blackwing Lair: guides/raids/blackwing-lair.md
-          - Temple of Ahn'Qiraj: guides/raids/temple-of-ahnqiraj.md
-          - Naxxramas: guides/raids/naxxramas.md
+          - Molten Core:
+            - guides/raids/molten-core/index.md
+            - Lucifron: guides/raids/molten-core/lucifron.md
+            - Magmadar: guides/raids/molten-core/magmadar.md
+            - Gehennas: guides/raids/molten-core/gehennas.md
+            - Garr: guides/raids/molten-core/garr.md
+            - Baron Geddon: guides/raids/molten-core/baron-geddon.md
+            - Shazzrah: guides/raids/molten-core/shazzrah.md
+            - Sulfuron Harbinger: guides/raids/molten-core/sulfuron-harbinger.md
+            - Golemagg the Incinerator: guides/raids/molten-core/golemagg-the-incinerator.md
+            - Majordomo Executus: guides/raids/molten-core/majordomo-executus.md
+            - Ragnaros: guides/raids/molten-core/ragnaros.md
+          - Blackwing Lair:
+            - guides/raids/blackwing-lair/index.md
+          - Temple of Ahn'Qiraj:
+            - guides/raids/temple-of-ahnqiraj/index.md
+          - Naxxramas:
+            - guides/raids/naxxramas/index.md

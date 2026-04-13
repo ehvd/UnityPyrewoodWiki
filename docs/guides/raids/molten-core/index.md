@@ -1,4 +1,4 @@
-# 🌋 Molten Core (MC) Raid Guide
+﻿# 🌋 Molten Core (MC) Raid Guide
 
 Welcome to the heart of Blackrock Mountain. This 40-man raid is the first major step into endgame content. Preparedness is 90% of the battle here—bring your **Fire Resistance (FR)** gear and plenty of consumables.
 
