@@ -5,10 +5,10 @@ Nefarian's stronghold in the upper reaches of Blackrock Spire. This 40-man raid 
 ---
 
 ## 📋 Pre-Raid Checklist
-- [ ] **Attunement:** Must have touched the Orb of Command in LBRS (after completing "Blackhand's Command").
-- [ ] **Onyxia Scale Cloak:** Essential for the three Drakes and Nefarian. Without it, you will die to *Shadow Flame*.
-- [ ] **Consumables:** Hourglass Sand (for Chromaggus), Restorative Potions, and the standard Elixirs/Buffs.
-- [ ] **Composition:** At least 2-3 Hunters for Tranq Shot and a solid rotation of Off-Tanks.
+- [x] **Attunement:** Must have touched the Orb of Command in LBRS (after completing "Blackhand's Command").
+- [x] **Onyxia Scale Cloak:** Essential for the three Drakes and Nefarian. Without it, you will die to *Shadow Flame*.
+- [x] **Consumables:** Hourglass Sand (for Chromaggus), Restorative Potions, and the standard Elixirs/Buffs.
+- [x] **Composition:** At least 2-3 Hunters for Tranq Shot and a solid rotation of Off-Tanks.
 
 ---
 

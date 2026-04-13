@@ -9,10 +9,10 @@ Welcome to the heart of Blackrock Mountain. This 40-man raid is the first major 
 ---
 
 ## 📋 Pre-Raid Checklist
-- [ ] **Attunement:** Complete the "Attunement to the Core" quest (jump through the window in BRD).
-- [ ] **Consumables:** Greater Fire Protection Potions (GFPP), Mongoose/Power Elixirs, and Mana Potions.
-- [ ] **Fire Resistance:** Tanks should aim for $300+$ FR; Melee/Healers should have $100+$.
-- [ ] **Douses:** Ensure at least 8 players have **Quintessence** (from Hydraxian Waterlords) to douse the runes.
+- [x] **Attunement:** Complete the "Attunement to the Core" quest (jump through the window in BRD).
+- [x] **Consumables:** Greater Fire Protection Potions (GFPP), Mongoose/Power Elixirs, and Mana Potions.
+- [x] **Fire Resistance:** Tanks should aim for $300+$ FR; Melee/Healers should have $100+$.
+- [x] **Douses:** Ensure at least 8 players have **Quintessence** (from Hydraxian Waterlords) to douse the runes.
 
 ---
 

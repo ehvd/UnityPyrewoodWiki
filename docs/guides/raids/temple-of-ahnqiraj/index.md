@@ -5,10 +5,10 @@ The ancient subterranean prison of the Old God C'Thun. This raid is a massive st
 ---
 
 ## 📋 Pre-Raid Checklist
-- [ ] **Nature Resistance Gear:** Essential for Princess Huhuran and Viscidus. Tanks: $300+$, Melee: $150-225+$.
-- [ ] **Consumables:** Greater Nature Protection Potions (GNPP), Free Action Potions (FAP), and Frost Oil (for Viscidus).
-- [ ] **Reputation:** Farm "Brood of Nozdormu" to unlock Tier 2.5 gear quests.
-- [ ] **Mechanics:** Ensure everyone has a way to track "Threat" (like TinyThreat) as many bosses here drop or reset aggro.
+- [x] **Nature Resistance Gear:** Essential for Princess Huhuran and Viscidus. Tanks: $300+$, Melee: $150-225+$.
+- [x] **Consumables:** Greater Nature Protection Potions (GNPP), Free Action Potions (FAP), and Frost Oil (for Viscidus).
+- [x] **Reputation:** Farm "Brood of Nozdormu" to unlock Tier 2.5 gear quests.
+- [x] **Mechanics:** Ensure everyone has a way to track "Threat" (like TinyThreat) as many bosses here drop or reset aggro.
 
 ---
 

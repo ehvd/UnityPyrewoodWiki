@@ -5,11 +5,12 @@ The pinnacle of Classic raiding. This 40-man necropolis is divided into four dis
 ---
 
 ## 📋 Pre-Raid Checklist
-- [ ] **Attunement:** Requires Honored+ with Argent Dawn. (Free at Exalted; expensive at Honored).
-- [ ] **Frost Resistance:** Essential for Sapphiron. Targets: Tanks $300+$, Melee/Healers $200+$.
-- [ ] **Consumables:** - **Protection:** Greater Frost, Shadow, and Nature Protection Potions.
-    - **Special:** **Stoneshield Potions** (Patchwerk), **Free Action Potions** (Anub'Rekhan).
-- [ ] **Frozen Runes:** Collect these from the walls of Naxx to craft your Tier 3 and FrR gear.
+- [x] **Attunement:** Requires Honored+ with Argent Dawn. (Free at Exalted; expensive at Honored).
+- [x] **Frost Resistance:** Essential for Sapphiron. Targets: Tanks $300+$, Melee/Healers $200+$.
+- [x] **Consumables:**
+    - [x] **Protection:** Greater Frost, Shadow, and Nature Protection Potions.
+    - [x] **Special:** **Stoneshield Potions** (Patchwerk), **Free Action Potions** (Anub'Rekhan).
+- [x] **Frozen Runes:** Collect these from the walls of Naxx to craft your Tier 3 and FrR gear.
 
 ---
 

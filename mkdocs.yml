@@ -62,6 +62,8 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 nav:
   - Home: index.md
